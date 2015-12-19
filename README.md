@@ -14,17 +14,24 @@ Please see the [OTP Quickstart](http://www.erlang.org/doc/design_principles/user
 
 ## How to Use this Image
 
+#### Create a container
+
+```
+  docker run -it eduardocolabardini/erlang /bin/bash
+```
+
 #### Create a `Dockerfile` in your Project
 
 ```
-  FROM niftyn8/erlang
+  FROM eduardocolabardini/erlang
 ```
-
 
 #### Issues & Contribution Info
 
-
+Please contact me if you have any ideas, suggestions or, even better, you want to collaborate.
 
 ## License
 
 Erlang is distributed under the [Erlang Public License](http://www.erlang.org/EPLICENSE).
+
+This repository is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
