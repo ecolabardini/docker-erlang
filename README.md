@@ -14,16 +14,17 @@ Please see the [OTP Quickstart](http://www.erlang.org/doc/design_principles/user
 
 ## How to Use this Image
 
-#### Create a container
+#### Run an interactive shell
 
 ```
-  docker run -it eduardocolabardini/erlang /bin/bash
+  $ docker run -it ecolabardini/erlang /bin/bash
+  $ erl
 ```
 
 #### Create a `Dockerfile` in your Project
 
 ```
-  FROM eduardocolabardini/erlang
+  FROM ecolabardini/erlang
 ```
 
 #### Issues & Contribution Info
