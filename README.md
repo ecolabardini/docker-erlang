@@ -14,7 +14,7 @@ Please see the [OTP Quickstart](http://www.erlang.org/doc/design_principles/user
 
 ## How to Use this Image
 
-#### Run an interactive shell
+#### Run as an interactive shell
 
 ```
   $ docker run -it ecolabardini/erlang /bin/bash
