@@ -1,6 +1,6 @@
 ## docker-erlang
 
-[![](https://images.microbadger.com/badges/image/ecolabardini/erlang.svg)](https://microbadger.com/images/ecolabardini/erlang "Get your own image badge on microbadger.com")[![](https://images.microbadger.com/badges/version/ecolabardini/erlang.svg)](https://microbadger.com/images/ecolabardini/erlang "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/ecolabardini/erlang.svg)](https://microbadger.com/images/ecolabardini/erlang "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/ecolabardini/erlang.svg)](https://microbadger.com/images/ecolabardini/erlang "Get your own version badge on microbadger.com")
 
 This is a base [Docker](http://docker.io) image for [Erlang](http://www.erlang.org/) projects.
 
